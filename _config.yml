@@ -3,20 +3,23 @@ title:               Jayeol Chun
 tagline:             Profile & Blog
 description:
 baseurl:            #"/Lagrange"
-url:                #"https://lenpaul.github.io"
+url:                "https://chunjy92.github.io"
 github:
-  url:               #"https://lenpaul.github.io/Lagrange"
+  url:               "https://github.com/chunjy92/chunjy92.github.io"
 author:
-  name:              "Paul Le"
-  email:             "l.nguyen.paul@gmail.com"
-  twitter:           "paululele"
-  instagram:         "paululele"
-  github:            "lenpaul"
-  facebook:          "Le.Paul.94"
-  linkedin:          "lenpaul"
+  name:              "Jayeol Chun"
+  email:             "chunjy92@gmail.com"
+  twitter:           "haru0422kr"
+  instagram:         #"paululele"
+  github:            "chunjy92"
+  facebook:          "chunjy92"
+  linkedin:          "chunjy92"
+  rss:               "aprilharu"
 navigation:
 - title: About
   url: /about
+- title: Projects
+  url: /projects
 - title: Writing
   url: /writing
 - title: Contact
