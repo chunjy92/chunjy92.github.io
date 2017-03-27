@@ -5,7 +5,7 @@ description:
 baseurl:            #"/Lagrange"
 url:                #"https://chunjy92.github.io"
 github:
-  url:               "https://github.com/chunjy92/chunjy92.github.io"
+  url:               #"https://github.com/chunjy92/chunjy92.github.io"
 author:
   name:              "Jayeol Chun"
   email:             "chunjy92@gmail.com"
