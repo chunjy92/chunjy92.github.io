@@ -2,7 +2,7 @@
 layout: page
 title: About
 image:
-  feature: myself1_full.jpg
+  feature: myself2_full.jpg
 ---
 Jayeol Chun
 
