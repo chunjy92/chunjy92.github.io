@@ -3,4 +3,4 @@ layout: page
 title: Contact
 ---
 
-If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=%40paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new)
+Thanks for visiting! Feel free to [send me an email](mailto:chunjy92@gmail.com), [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) or [say hi on my Korean blog](http://aprilharu.tistory.com/guestbook) :)
