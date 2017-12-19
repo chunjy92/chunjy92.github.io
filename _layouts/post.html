@@ -6,8 +6,8 @@ layout: default
   {{ page.title }}
 </h1>
 
-{% if page.image.feature %}
-  <img src="{{ site.github.url }}/images/{{ page.image.feature }}">
+{% if page.image %}
+  <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
 {% endif %}
 
 {{ content }}
@@ -22,10 +22,14 @@ layout: default
     {% when '3' or '23' %}{{ d }}rd
     {% else %}{{ d }}th{% endcase %},
   {{ page.date | date: "%Y" }}
-  by {{ site.author.name }}
+  by
+  {% if page.author %}
+    {{ page.author }}
+  {% else %}
+    {{ site.data.authors.primary.name }}
+  {% endif %}
 </span>
-{% include social-sharing.html %}
 
-{% if site.disqus %}
+{% if site.data.settings.disqus.comments %}
   {% include disqus.html %}
 {% endif %}

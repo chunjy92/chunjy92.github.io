@@ -1,35 +1,29 @@
-# Site Settings
-title:               Jayeol Chun
-tagline:             Profile & Blog
-description:
-baseurl:            #"/Lagrange"
-url:                #"https://chunjy92.github.io"
-github:
-  url:               #"https://github.com/chunjy92/chunjy92.github.io"
-author:
-  name:              "Jayeol Chun"
-  email:             "chunjy92@gmail.com"
-  twitter:           "chunjy92"
-  instagram:         #"paululele"
-  github:            "chunjy92"
-  facebook:          "chunjy92"
-  linkedin:          "chunjy92"
-  rss:               "aprilharu"
-navigation:
-- title: About
-  url: /about
-- title: Projects
-  url: /projects
-- title: Writing
-  url: /writing
-- title: Contact
-  url: /contact
+# Site Build Settings
 
+# Jekyll-paginate-v2 configuration
+#  pagination:
+#   enabled: true
+#   per_page: 5
+#   permalink: '/page/:num/'
+#   title: ':title - page :num of :max'
+#   limit: 0
+#   sort_field: 'date'
+#   sort_reverse: true
+
+# jekyll-paginate configuration
 paginate:            5
-disqus:              #"your-disqus"
 
 # Build settings
 markdown:            kramdown
 highlighter:         rouge
 permalink:           none
-gems:                [jekyll-paginate]
+plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+
+# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+title:               "Jayeol Chun"
+description:         "Profile Page for Che Yeol (Jayeol) Chun"
+author:              "Jayeol Chun"
+
+# RSS 2.0 can be used instead of Atom by uncommenting following two lines
+#feed:
+#  path: rss-feed.xml
