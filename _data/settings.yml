@@ -14,7 +14,7 @@ menu:
 - {name: 'Self', path: 'menu', url: 'about.html'}
 - {name: 'Demo', path: 'menu', url: 'demo.html'}
 - {name: 'Tutorials', path: 'menu', url: 'tutorials.html'}
-- {name: 'Collections', path: 'collections.com'}
+- {name: 'Collections', path: 'collections'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
@@ -22,4 +22,3 @@ social:
 - {icon: 'twitter', link: 'https://twitter.com/chunjy92'}
 - {icon: 'linkedin', link: 'http://www.linkedin.com/in/chunjy92/'}
 - {icon: 'envelope', link: 'mailto:chunjy92@gmail.com'}
-# - {icon: 'rss-square', link: 'feed.xml'}
