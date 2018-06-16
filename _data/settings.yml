@@ -1,24 +1,19 @@
-title:  Jayeol Chun
-tagline:  Un-blogging Profile
+title:    Jayeol Chun
+tagline:  at chunjy92
 
 # Authors documented under _data
-
-# Change to true for Disqus comments
-disqus:
-  comments: false
-  disqus_shortname: 'https-lenpaul-github-io-lagrange'
-
 google-ID: 'UA-111459543-1'
 
-menu:
-- {name: 'Self', path: 'menu', url: 'about.html'}
-- {name: 'Demo', path: 'menu', url: 'demo.html'}
-- {name: 'Tutorials', path: 'menu', url: 'tutorials.html'}
-- {name: 'Collections', path: 'collections'}
+pages:
+- {name: 'Self', path: 'pages', url: 'self.html'}
+- {name: 'Projects', path: 'pages', url: 'projects.html'}
+- {name: 'Publications', path: 'pages', url: 'publications.html'}
+- {name: 'Presentations', path: 'pages', url: 'presentations.html'}
+- {name: '10DoF', path: 'tendof'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'github', link: 'https://www.github.com/chunjy92'}
-- {icon: 'twitter', link: 'https://twitter.com/chunjy92'}
-- {icon: 'linkedin', link: 'http://www.linkedin.com/in/chunjy92/'}
-- {icon: 'envelope', link: 'mailto:chunjy92@gmail.com'}
+- {icon: 'github',    link: 'https://www.github.com/chunjy92'}
+- {icon: 'twitter',   link: 'https://twitter.com/chunjy92'}
+- {icon: 'linkedin',  link: 'http://www.linkedin.com/in/chunjy92/'}
+- {icon: 'envelope',  link: 'mailto:chunjy92@gmail.com'}
