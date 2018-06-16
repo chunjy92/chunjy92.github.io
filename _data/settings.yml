@@ -9,7 +9,7 @@ pages:
 - {name: 'Projects', path: 'pages', url: 'projects.html'}
 - {name: 'Publications', path: 'pages', url: 'publications.html'}
 - {name: 'Presentations', path: 'pages', url: 'presentations.html'}
-- {name: '10DoF', path: 'tendof'}
+- {name: '10DoF', path: 'tendof', url: 'tendof.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
