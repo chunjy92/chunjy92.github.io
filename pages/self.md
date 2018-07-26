@@ -9,7 +9,7 @@ image: 2018.jpg
  **Che Yeol (Jayeol) Chun**
 
 
-Having studied liberal arts at Emory, albeit with some emphasis on quantitative methods, I will be attending Brandies to pursue a Ph.D. in Computer Science in Fall 2018.
+Having studied liberal arts at Emory, albeit with some emphasis on quantitative methods, I will be attending Brandeis to pursue a Ph.D. in Computer Science in Fall 2018.
 
 As of June 2018, I am in Daejeon, South Korea, working as an intern at a KAIST spin-off company on a project regarding Differential Expression Analysis.
 
@@ -19,10 +19,10 @@ B.S. (2018) Emory University, Mathematics and Computer Science & Physics, *summa
 
 **Research Interests**
 
-* NLP & Computational Linguistics: Semantic parsing (AMR)
-* Computer Vision: Generative Deep Learning models (GAN)
-* Bioinformatics: Differential Expression Analysis
-* Population Genetics: Coalescent Theory
+* NLP & Computational Linguistics: Semantic parsing
+* Quantitative Evolutionary Theory: Coalescent theory
+* Computer Vision: Medical imaging
+* Bioinformatics: Differential expression analysis
 
 **Teaching**
 
@@ -31,9 +31,9 @@ B.S. (2018) Emory University, Mathematics and Computer Science & Physics, *summa
 
 **Community Engagement**
 
-* Emory Data Science Club: Data501 Project Director, Senior Advisor
+* Emory Data Science Club: Data501 Project director, Senior advisor
 * Emory Korean Scientists and Engineers Association: Co-founder, Co-president
-* Office of Residence Life, Emory University: Residential Advisor
+* Office of Residence Life, Emory University: Residential advisor
 
 **Military**
 
@@ -43,7 +43,7 @@ B.S. (2018) Emory University, Mathematics and Computer Science & Physics, *summa
 
 * Emory Mascot Lord Dooley’s Personal Guard
 * Intermediate fluency with traditional Chinese
-* Active interests in Photography, Vector Graphics Design, Acoustic Guitar, PUBG
+* Active interests in Vector Graphics Design, Video Editing, Photography, Acoustic Guitar, PUBG
 
 [CV](../assets/doc/cv.pdf) |
 [Resume](../assets/doc/resume.pdf)

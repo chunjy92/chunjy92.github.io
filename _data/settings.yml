@@ -9,11 +9,10 @@ pages:
 - {name: 'Projects', path: 'pages', url: 'projects.html'}
 - {name: 'Publications', path: 'pages', url: 'publications.html'}
 - {name: 'Presentations', path: 'pages', url: 'presentations.html'}
-- {name: '10DoF', path: 'tendof'}
+- {name: '10DoF', path: 'pages', url: 'tendof.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'github',    link: 'https://www.github.com/chunjy92'}
-- {icon: 'twitter',   link: 'https://twitter.com/chunjy92'}
 - {icon: 'linkedin',  link: 'http://www.linkedin.com/in/chunjy92/'}
 - {icon: 'envelope',  link: 'mailto:chunjy92@gmail.com'}
