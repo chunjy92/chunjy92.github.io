@@ -11,11 +11,12 @@ image: 2018.jpg
 
 Having studied liberal arts at Emory, albeit with some emphasis on quantitative methods, I will be attending Brandeis to pursue a Ph.D. in Computer Science in Fall 2018.
 
-As of September 2018, I am at Brandeis as a first-year graduate student.
+As of September 2018, I am attending Brandeis as a first-year graduate student.
 
 **Education**
 
-Ph.D. (2018 ~ current) Brandeis University, Computer Science, Michtom Fellowship
+Ph.D. (current) Brandeis University, Computer Science, *Michtom Fellowship*
+
 B.S. (2018) Emory University, Mathematics and Computer Science & Physics, *summa cum laude*
 
 **Research Interests**
@@ -39,13 +40,13 @@ B.S. (2018) Emory University, Mathematics and Computer Science & Physics, *summa
 
 **Military**
 
-* 2011 ~ 2013: Faculty Board, Republic of Korea Air Force Academy
+* Faculty Board, Republic of Korea Air Force Academy (2011 ~ 2013)
 
 **Miscellaneous**
 
-* Emory Mascot Lord Dooley’s Personal Guard (2016-2017)
+* Emory Mascot Lord Dooley’s Personal Guard (2016 ~ 2017)
 * Intermediate fluency with traditional Chinese
 * Active interests in Cooking, Video Editing, Acoustic Guitar, PUBG
 
 [CV](../assets/doc/cv.pdf) |
-[Resume](../assets/doc/resume.pdf)
+[Resume](../assets/doc/resume.pdf) (Last updated on June 2018)
