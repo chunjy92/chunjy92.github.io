@@ -1,5 +1,0 @@
----
-layout: notyet
-title: Projects
----
-
