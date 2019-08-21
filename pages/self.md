@@ -9,9 +9,7 @@ image: 2018.jpg
  **Che Yeol (Jayeol) Chun**
 
 
-Having studied liberal arts at Emory, albeit with some emphasis on quantitative methods, I will be attending Brandeis to pursue a Ph.D. in Computer Science in Fall 2018.
-
-As of September 2018, I am attending Brandeis as a first-year graduate student.
+Having studied liberal arts at Emory, albeit with some emphasis on quantitative methods, I am currently a second-year Ph.D. student in Computer Science at Brandeis.
 
 **Education**
 
@@ -28,7 +26,8 @@ B.S. (2018) Emory University, Mathematics and Computer Science & Physics, *summa
 
 **Teaching**
 
-* TA for [COSI-134A](https://brandeis.schdl.net/course/Fall_2018/COSI_134A), Brandeis University
+* TA for COSI-140B ([2018](https://brandeis.schdl.net/course/Spring_2019/COSI_140B)), Brandeis University
+* TA for COSI-134A ([2018](https://brandeis.schdl.net/course/Fall_2018/COSI_134A), [2019](https://brandeis.schdl.net/course/Fall_2019/COSI_134A)), Brandeis University
 * Student instructor for [IDS490R](http://atlas.college.emory.edu/schedules/index.php?select=IDS&view=cse&t=5169&sc=IDS&cn=490R&sn=06P), Emory College
 * TA for [CS170](http://www.mathcs.emory.edu/~valerie/courses/spr16/170/utas.html), Emory College
 
@@ -49,4 +48,4 @@ B.S. (2018) Emory University, Mathematics and Computer Science & Physics, *summa
 * Active interests in Cooking, Video Editing, Acoustic Guitar, PUBG
 
 [CV](../assets/doc/cv.pdf) |
-[Resume](../assets/doc/resume.pdf) (Last updated on June 2018)
+[Resume](../assets/doc/resume.pdf) (Last updated on August 2019)
